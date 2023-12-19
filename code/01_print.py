@@ -1,7 +1,61 @@
-print('Hola  este es el archivo de python')
-print('Hola soy Tanya y tengo 45 años y soy guapa')
-
-print(10+5)
-print(40-2)
-print(2*3)
-print(8/2)
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Hola esto es python\n",
+      "Hola soy Tanya y tengo 45 años\n"
+     ]
+    }
+   ],
+   "source": [
+    "print('Hola esto es python')\n",
+    "\n",
+    "print('Hola soy Tanya y tengo 45 años')\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "name = 'Juana'\n",
+    "print(name)\n",
+    "age = '10'\n",
+    "print(age)\n",
+    "\n",
+    "\n",
+    "template = f\"---\"\n",
+    "print(template)"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "venv",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.11.4"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 2
+}
