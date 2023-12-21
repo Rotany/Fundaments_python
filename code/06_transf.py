@@ -14,3 +14,6 @@ age = int(age)
 age += 10
 print(f'Mi edad en 10 años sera {age}')
 print(age)
+
+
+
