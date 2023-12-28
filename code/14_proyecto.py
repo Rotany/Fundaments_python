@@ -1,6 +1,5 @@
-
-'''
 user_option = input('piedra, papel, tijera =>')
+user_option = user_option.lower()
 computer_option = 'piedra'
 if user_option == computer_option:
     print('empate')
@@ -27,9 +26,8 @@ elif user_option == 'tijera':
         
         print('piedra gana a tijera')
         print('computer gano')
+
 '''
-
-
 number = '10'
 number = int(number)
 print(number)
@@ -38,6 +36,8 @@ if result == 0:
     print ('es par')
 else:
     print('es impar')
+
+'''
 
 
 

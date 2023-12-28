@@ -1,0 +1,13 @@
+text = 'El amor de mi vida eres tu'
+print(text)
+print(text.upper())
+print(text.lower())
+print(text.title())
+print(text.count('amor'))
+print(text.swapcase())
+print(text.startswith('vida'))
+print(text.endswith('tu'))
+print(text.replace( 'tu', '?'))
+print(text.capitalize())
+print(text.isdigit())
+print('564'.isdigit())
